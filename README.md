@@ -1,1 +1,1 @@
-# machine-learning
+# Интеллекутальный анализ данных machine-learning
